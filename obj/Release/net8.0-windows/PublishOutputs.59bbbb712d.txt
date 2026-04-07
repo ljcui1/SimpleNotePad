@@ -1,0 +1,5 @@
+C:\Users\cui\Documents\C# Projects\SimpleNotePad\SimpleNotePad\bin\Release\net8.0-windows\app.publish\SimpleNotePad.exe
+C:\Users\cui\Documents\C# Projects\SimpleNotePad\SimpleNotePad\bin\Release\net8.0-windows\app.publish\SimpleNotePad.dll
+C:\Users\cui\Documents\C# Projects\SimpleNotePad\SimpleNotePad\bin\Release\net8.0-windows\app.publish\SimpleNotePad.deps.json
+C:\Users\cui\Documents\C# Projects\SimpleNotePad\SimpleNotePad\bin\Release\net8.0-windows\app.publish\SimpleNotePad.runtimeconfig.json
+C:\Users\cui\Documents\C# Projects\SimpleNotePad\SimpleNotePad\bin\Release\net8.0-windows\app.publish\SimpleNotePad.pdb
