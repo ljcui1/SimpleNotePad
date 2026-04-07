@@ -1,0 +1,17 @@
+C:\Users\cui\Documents\C# Projects\SimpleNotePad\SimpleNotePad\bin\Debug\net8.0-windows\SimpleNotePad.exe
+C:\Users\cui\Documents\C# Projects\SimpleNotePad\SimpleNotePad\bin\Debug\net8.0-windows\SimpleNotePad.deps.json
+C:\Users\cui\Documents\C# Projects\SimpleNotePad\SimpleNotePad\bin\Debug\net8.0-windows\SimpleNotePad.runtimeconfig.json
+C:\Users\cui\Documents\C# Projects\SimpleNotePad\SimpleNotePad\bin\Debug\net8.0-windows\SimpleNotePad.dll
+C:\Users\cui\Documents\C# Projects\SimpleNotePad\SimpleNotePad\bin\Debug\net8.0-windows\SimpleNotePad.pdb
+C:\Users\cui\Documents\C# Projects\SimpleNotePad\SimpleNotePad\obj\Debug\net8.0-windows\SimpleNotePad.Form1.resources
+C:\Users\cui\Documents\C# Projects\SimpleNotePad\SimpleNotePad\obj\Debug\net8.0-windows\SimpleNotePad.csproj.GenerateResource.cache
+C:\Users\cui\Documents\C# Projects\SimpleNotePad\SimpleNotePad\obj\Debug\net8.0-windows\SimpleNotePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cui\Documents\C# Projects\SimpleNotePad\SimpleNotePad\obj\Debug\net8.0-windows\SimpleNotePad.AssemblyInfoInputs.cache
+C:\Users\cui\Documents\C# Projects\SimpleNotePad\SimpleNotePad\obj\Debug\net8.0-windows\SimpleNotePad.AssemblyInfo.cs
+C:\Users\cui\Documents\C# Projects\SimpleNotePad\SimpleNotePad\obj\Debug\net8.0-windows\SimpleNotePad.csproj.CoreCompileInputs.cache
+C:\Users\cui\Documents\C# Projects\SimpleNotePad\SimpleNotePad\obj\Debug\net8.0-windows\SimpleNotePad.sourcelink.json
+C:\Users\cui\Documents\C# Projects\SimpleNotePad\SimpleNotePad\obj\Debug\net8.0-windows\SimpleNotePad.dll
+C:\Users\cui\Documents\C# Projects\SimpleNotePad\SimpleNotePad\obj\Debug\net8.0-windows\refint\SimpleNotePad.dll
+C:\Users\cui\Documents\C# Projects\SimpleNotePad\SimpleNotePad\obj\Debug\net8.0-windows\SimpleNotePad.pdb
+C:\Users\cui\Documents\C# Projects\SimpleNotePad\SimpleNotePad\obj\Debug\net8.0-windows\SimpleNotePad.genruntimeconfig.cache
+C:\Users\cui\Documents\C# Projects\SimpleNotePad\SimpleNotePad\obj\Debug\net8.0-windows\ref\SimpleNotePad.dll
